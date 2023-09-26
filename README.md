@@ -1,5 +1,8 @@
 # GPS-X with Python: Simulating Random Events in Wastewater Treatment
 
+![My Video](https://github.com/engalejandrovargas/Simulating-Random-Events-in-Wastewater-Treatment/assets/77429377/3fe9200b-cc0d-4679-8a19-d0e412f2d9b1)
+
+
 ## Overview
 
 This repository serves as an informative guide on how to simulate random events affecting a wastewater treatment plant using Python and GPS-X. The tutorial was designed to introduce the concept of randomness in environmental engineering simulations, specifically in the context of wastewater treatment. It aims to provide insights into how unpredictable events like storms can impact the operation of a wastewater treatment plant.
