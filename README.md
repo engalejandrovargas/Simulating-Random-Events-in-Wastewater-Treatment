@@ -18,6 +18,16 @@ This repository serves as an informative guide on how to simulate random events 
 
 A new layout was created in GPS-X, featuring various components essential for a wastewater treatment plant. These components include an influent object, stormwater runoff, a 2-flow combiner, a plug-flow tank, and more. The layout was then saved, and the simulation mode was activated. An output plot was generated to visualize the flow leaving the Influent Combiner.
 
+- A wastewater influent object
+- A stormwater runoff (Influent tab)
+- A 2-flow combiner
+- A plug-flow tank
+- A circular secondary clarifier
+- A wastewater outfall
+
+![image](https://github.com/engalejandrovargas/Simulating-Random-Events-in-Wastewater-Treatment/assets/77429377/d11be839-800e-4683-b461-60170c308d4a)
+
+
 ### 2. Creating a Random Event
 
 A pre-existing Python script was utilized to introduce random rainfall events into the simulation. The script was edited to customize the random events, including their frequency and severity. Running this script allowed us to visualize how such random events could impact the plant's operation.
